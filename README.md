@@ -19,11 +19,13 @@ Currently expanding into **AI-powered applications**, working with **Large Langu
 * Retrieval-Augmented Generation (RAG)
 * AI Application Architecture
 * Backend & System Design
-*
+
+---
+
 📫 Connect With Me
 📧 Email: [sachinagon@gmail.com](mailto:sachinagon@gmail.com)
 💼 LinkedIn: https://www.linkedin.com/in/sachinkdev/
-💻 GitHub: https://github.com/war-daddy
+
 ---
 ⭐ Always learning. Always building.
 
