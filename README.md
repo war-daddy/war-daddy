@@ -2,73 +2,50 @@
 Hi 👋, I'm Sachin Kumar
 
 💻 **Full-Stack Developer (2.5+ years)** | Exploring **Generative AI, LLMs & RAG Systems**
-
 I build scalable web applications and developer-focused tools using **JavaScript, React, Node.js, and modern web technologies**.
-
 Currently expanding into **AI-powered applications**, working with **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Hugging Face, and LangChain** to build intelligent systems.
 
 ---
  🚀 What I Do
-
 * Build **scalable full-stack applications**
 * Develop **modern UI/UX with React and JavaScript**
 * Design **REST APIs and backend services with Node.js**
 * Build **AI-powered applications using LLMs**
 * Experiment with **RAG pipelines and AI agents**
 * Solve **Data Structures & Algorithms problems**
-
 ---
-
  🧠 Currently Learning
-
 * LLM Engineering & Prompt Design
 * Retrieval-Augmented Generation (RAG)
 * AI Application Architecture
 * Backend & System Design
-
 ---
-
 🛠 Tech Stack
-
 **Frontend**
 HTML • CSS • Bootstrap • JavaScript • React
-
 **Backend**
 Node.js • Express • Python • FastAPI • Django
-
 **AI / Data**
 Python • Hugging Face • LangChain • RAG
-
 **Database**
 MongoDB • MySQL • PostgresSql
-
 ---
  📌 Featured Projects
-
 🔹 **PDF Chatbot (RAG-based)**
 Chat with PDF documents using embeddings and LLMs.
-
 🔹 **Sentiment Analysis Tool**
 AI tool that analyzes user reviews or tweets and visualizes sentiment trends.
-
 🔹 **HRMS Lite**
 Employee management dashboard with authentication and admin features.
-
 🔹 **DSA Simulator Website**
 Interactive platform for visualizing and learning data structures.
-
 ---
 📫 Connect With Me
-
 📧 Email: [sachinagon@gmail.com](mailto:sachinagon@gmail.com)
 💼 LinkedIn: https://www.linkedin.com/in/sachinkdev/
 💻 GitHub: https://github.com/war-daddy
-
 ---
-
 ⭐ Always learning. Always building.
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sachinkdev/) 
