@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sachin Kumar
 
-### Full-Stack Developer | Exploring Generative AI, LLMs & RAG Systems
+### 💻 Full-Stack Developer | Exploring Generative AI, LLMs & RAG Systems
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node.js+Engineer;LLM+%7C+RAG+Builder;AI+Application+Developer&center=true&width=500&height=45">
 
@@ -12,20 +12,27 @@
 
 # 🚀 About Me
 
-💻 Full-Stack Developer with **2.5+ years of experience** building modern web applications.
+💻 Full-Stack Developer with **2.5+ years of experience** building scalable web applications.
 
-I specialize in building **scalable frontends with React and backend services with Node.js**, and I’m currently exploring **Generative AI, LLM systems, and Retrieval-Augmented Generation (RAG)**.
+I specialize in building **modern frontends with React** and **backend systems with Node.js**.
 
-I enjoy building **developer tools, AI applications, and scalable products**.
+Currently expanding into **Generative AI**, working with:
+
+* Large Language Models (LLMs)
+* Retrieval Augmented Generation (RAG)
+* Hugging Face
+* LangChain
+
+I enjoy building **AI tools, developer tools, and scalable applications**.
 
 ---
 
-# 🧠 Currently Exploring
+# 🧠 Currently Learning
 
 ⚡ LLM Engineering
 ⚡ Retrieval Augmented Generation (RAG)
 ⚡ AI Application Architecture
-⚡ System Design & Backend Scalability
+⚡ Backend System Design
 
 ---
 
@@ -33,23 +40,39 @@ I enjoy building **developer tools, AI applications, and scalable products**.
 
 ### Frontend
 
-React • JavaScript • TypeScript • HTML • CSS • Tailwind
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs" />
+</p>
 
 ### Backend
 
-Node.js • Express • FastAPI • REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+</p>
 
-### AI / ML
+### AI / Machine Learning
 
-Python • LangChain • Hugging Face • RAG
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Systems-blue?style=for-the-badge" />
+</p>
 
 ### Database
 
-MongoDB • PostgreSQL • MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
 
 ### Dev Tools
 
-Git • Docker • Postman • Playwright
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,aws,vercel,netlify" />
+</p>
 
 ---
 
@@ -57,11 +80,11 @@ Git • Docker • Postman • Playwright
 
 ### 🤖 PDF Chatbot (RAG System)
 
-Chat with PDF documents using embeddings + LLMs.
+Chat with PDF documents using embeddings and LLMs.
 
 ### 📊 Sentiment Analysis Tool
 
-AI tool that analyzes user reviews or tweets and visualizes sentiment.
+AI tool that analyzes user reviews or tweets and visualizes sentiment trends.
 
 ### 🧑‍💼 HRMS Lite
 
@@ -69,7 +92,7 @@ Employee management dashboard with authentication and admin features.
 
 ### 📚 DSA Simulator
 
-Interactive platform to visualize data structures.
+Interactive platform for visualizing data structures.
 
 ---
 
@@ -92,6 +115,12 @@ Interactive platform to visualize data structures.
 <img src="https://streak-stats.demolab.com/?user=war-daddy&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=war-daddy\&theme=tokyo-night)
 
 ---
 
@@ -123,6 +152,6 @@ Interactive platform to visualize data structures.
 
 <p align="center">
 
-⭐ *Always Learning. Always Building.*
+⭐ **Always Learning. Always Building.**
 
 </p>
