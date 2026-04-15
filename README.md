@@ -47,7 +47,7 @@ I enjoy building **AI tools, developer tools, and scalable applications**.
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,java" />
 </p>
 
 ### AI / Machine Learning
