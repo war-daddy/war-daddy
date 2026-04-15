@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer | Exploring Generative AI, LLMs & RAG Systems
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Node.js+Engineer;LLM+%7C+RAG+Builder;AI+Application+Developer&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Java+%7C+Node.js+Engineer;LLM+%7C+RAG+Builder;AI+Application+Developer&center=true&width=500&height=45">
 
 </div>
 
@@ -14,7 +14,7 @@
 
 💻 Full-Stack Developer with **2.5+ years of experience** building scalable web applications.
 
-I specialize in building **modern frontends with React** and **backend systems with Node.js**.
+I specialize in building **modern frontends with React** and **backend systems with Java & Node.js**.
 
 Currently expanding into **Generative AI**, working with:
 
